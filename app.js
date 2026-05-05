@@ -1,4 +1,4 @@
-const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbzSTYSBsd2umh4G__iIzVoWDeEDTHvHLX--VkS4JIbduGIo_vyQ8LcSTzbJJHhyHl2NIQ/exec";
+const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbxxrcuKG7iq0ZLH2WjJN5DFHw62uQaZ7NXqqxAyPiShjng9ABIY_RVaDyFowMQv3qrg/exec";
 const SITE_TITLE = "台北行程地圖";
 const DAY_COLORS = ["#3b82f6", "#f97316", "#10b981", "#8b5cf6", "#ec4899", "#14b8a6", "#f59e0b", "#ef4444"];
 
